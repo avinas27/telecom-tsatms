@@ -1,0 +1,14 @@
+# Compiled files
+build/
+*.class
+
+# IDE settings
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Database credentials
+resources/db.properties
